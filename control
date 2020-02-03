@@ -1,0 +1,9 @@
+Package: com.jdc0rp.pepe
+Name: Pepe
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enables PiP for all devices. Only tested on iOS 13
+Maintainer: BadmanJD
+Author: BadmanJD
+Section: Tweaks
